@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad and lamentable account of a barbarous and bloody-murther, committed upon the body of Sir William Hescot, Knight. At the Globe Tavern in Fleet-Street on the 14th of November 1684.  For which Henry St. Johns Esq; and Colonel Web, stand committed to the county goal of Newgate.  Containing the material circumstances, relating to the death of the said unfortunate gentleman.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09932</idno><idno type="EEBO-CITATION">64551728</idno>
+  <idno type="VID">184793</idno>
+  <idno type="EEBO-PROQUEST">2248530929</idno>
+  
+            <idno type="OCLC"> 64551728</idno>
+            <idno type="STC">Wing S237AA</idno>
+            <idno type="STC">ESTC R183149</idno>
+            <idno type="OCLC">64551728</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184793)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad and lamentable account of a barbarous and bloody-murther, committed upon the body of Sir William Hescot, Knight. At the Globe Tavern in Fleet-Street on the 14th of November 1684.  For which Henry St. Johns Esq; and Colonel Web, stand committed to the county goal of Newgate.  Containing the material circumstances, relating to the death of the said unfortunate gentleman.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hescot, William, --  Sir, d. 1684.</term>
+               <term type="personal_name">St. Johns, Henry.</term>
+               <term type="personal_name">Web, --  Colonel.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184793:1"/>
+            <head>A SAD AND LAMENTABLE ACCOUNT OF A Barbarous and Bloody-Murther, Committed upon the BODY OF Sir William Hescot, KNIGHT.</head>
+            <head type="sub">At the <hi>Globe Tavern</hi> in <hi>Fleet-street</hi> on the 14th of <hi>November</hi> 1684. For which <hi>Henry</hi> St. <hi>Johns</hi> Esq; and Colonel <hi>Web,</hi> stand Committed to the County Goal of <hi>Newgate.</hi>
+            </head>
+            <head type="sub">CONTAINING <hi>The Material Circumstances, Relating to the Death of the said un<g ref="char:EOLhyphen"/>fortunate</hi> GENTLEMAN.</head>
+            <p>'TIS of late become the unhappiness of our Nation, that it's Natives too frequently transported with passion, rashly and unadvisedly dip their Hands in Blood, up<g ref="char:EOLhyphen"/>on such little and frivolous occasions, that they in<g ref="char:EOLhyphen"/>stead of Vindicating their Honour and Reputation render themselves contemptable, nor can a plainer demonstration be exposed as example, to deterr Men from such madness for the future, than the sad Relation of what I here propose, which take as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>On <hi>Fryday</hi> the 14th of <hi>Novemb.</hi> instant, in the Evening Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Hescot,</hi> a <hi>Wilt shire</hi> Gentleman of known worth and reputation, go<g ref="char:EOLhyphen"/>ing to the <hi>Devil Tavern</hi> near <hi>Temple-Bar,</hi> to drink with divers Per<g ref="char:EOLhyphen"/>sons, after having stayed there for some time, one of the Company desired him to go to the <hi>Globe Tavern</hi> near <hi>Shooe-lane,</hi> telling him, and the rest of the Company, that he could Command there a Glass of good Wine; which offer, after some difficulty being embraced by the deceased, and those that were present, they came thither a<g ref="char:EOLhyphen"/>bout Ten at Night, and being shewed up one pair of stairs, after some Bottles drinking, and a general recommendation of the Wine, it growing late and the Company increasing, Sir <hi>William</hi> was not o<g ref="char:EOLhyphen"/>ver desirous to stay, yet upon some importunity became so unfortu<g ref="char:EOLhyphen"/>nate, as not to follow his own inclinations, till at length disputes
+<pb facs="tcp:184793:2"/>arose about Racing and Setting, or who had the best Horses or Dogs capable of imploy on that occasion, the principal dis<g ref="char:EOLhyphen"/>course, being between Sir <hi>William Hescot,</hi> and <hi>Henry</hi> St. <hi>Johns</hi> Esq; who came with him from the first mentioned <hi>Ta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ern</hi> to the latter, and some Wagers were proposed in order to a Tryal of Racing, but it came to no result, for Colonel <hi>We<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> another of the Company backing or taking Mr. St. <hi>Johns</hi> part, and the whole Company which consisted of Nine Persons, being divided in opinions, as to the Wa<g ref="char:EOLhyphen"/>ger hot words arose between the deceased, and Mr. St. <hi>Johns</hi> the latter telling the former he was an Ass, and that he had no Horse ca<g ref="char:EOLhyphen"/>pable running an Hundred pound Wager, which was the Wager that had been proposed, to which Sir <hi>William</hi> as roughly replying, and returning the word Fool, threatning Language on both sides insued, so that by flinging of Bottles and Pipes the House was Ala<g ref="char:EOLhyphen"/>rumed, and the scufle growing hot, the Drawer run up, where he found Mr. St. <hi>Johns</hi> with his Sword drawn, as likewise div<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs other Swords, and that Sir <hi>William Hescot</hi> was relieved in much disorder towards the Window, supposed to be Wounded, which afterwards appeared no less; whereupon the Watch being called, came into the Room, where the Constable of the Night commanded the Kings Peace, and thereupon the Swords were put up and delivered into his Hands, the Parties surrendering themselves, at what time order was taken to search Sir <hi>William,</hi> who after some staggering and reel<g ref="char:EOLhyphen"/>ing against the Chaires, was fallen on the flore, when upon opening his Cloaths the Blood in abundance issued forth, so that the Chirur<g ref="char:EOLhyphen"/>geons that were sent for, in vain used their endeavours to save his Life; for having declared himself a dead Man, and intimated as well as he could by what hand he fell, as likewise, with his Eyes lifted up, desired as it were mercy for his Soul, he fainted away, and al<g ref="char:EOLhyphen"/>though he breathed for the space of an hour or more, yet he could not be brought to speak or give any other Signs of Life.</p>
+            <p>Upon search of the Body by the Coroners inquest, which for that purpose were Impanell'd on the 15th, it was found that a Wound of Six Inches, was given him near the Navel, and three others in the Groine, or rather the bottom of his Belly, his right hand like<g ref="char:EOLhyphen"/>wise was slit between his Fore-finger and Thumb, as likewise his Middle-finger almost cut off, in all probability by putting by a pass or having the Sword drawn through his hand, when upon Exami<g ref="char:EOLhyphen"/>nation of the Witnesses, it no ways appearing his Sword was drawn, but that he had received the Wounds, or some of them from Mr. St. <hi>Johns,</hi> and that Colonel <hi>Web,</hi> was active in abetting the said Mr. St. <hi>Johns,</hi> the Jury found it Murther; in Mr. St. <hi>Johns</hi> as Principal, and in Colonel <hi>Web</hi> as Accessary: Whereupon they were committed to <hi>Newgate,</hi> and the rest of the Company <hi>viz.</hi> Mr. <hi>Brown,</hi> Mr. <hi>Grub,</hi> Mr. <hi>Maschaline,</hi> Mr. <hi>Stoaks,</hi> Mr. <hi>York, &amp;c.</hi> bound over in considerable pe<g ref="char:EOLhyphen"/>nalties, to appear the next Session to be holden in the <hi>Old Baily</hi> for <hi>London</hi> and <hi>Middlesex.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. C.</hi> 1684</p>
+            <pb facs="tcp:184793:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
